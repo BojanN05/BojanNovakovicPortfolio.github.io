@@ -1,7 +1,7 @@
 #pozadinska_slika{
     width: 100%;
     height: 843px;
-    background-image: url('../slike/zozadina.jpg');
+    background-image: url('../../slike/zozadina.jpg');
     background-size: cover;
     background-position: center bottom;
     background-attachment: fixed;
@@ -59,7 +59,7 @@
         transition: 0.8s;
     }
     .slika_mene{
-        background-image: url('../slike/mojaslika.jpg');
+        background-image: url('../../slike/mojaslika.jpg');
         width: 50%;
         height: 500px;
         background-position: -43px -108px;
