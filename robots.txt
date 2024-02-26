@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.example.com/sitemap.xml
+rss: https://www.example.com/rss.xml
+responsive: https://www.example.com/responsive.css
+css: https://www.example.com/style.css
+sass: https://www.example.com/style.scss
